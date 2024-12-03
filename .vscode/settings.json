@@ -23,5 +23,12 @@
   "terminal.integrated.localEchoStyle": "dim",
   "search.exclude": {
     "**/node_modules": true
-  }
+  },
+  "editor.acceptSuggestionOnEnter": "on",
+  "pieces.autocomplete": true,
+  "pieces.autocompleteKey": "Enter or Tab",
+  "pieces.display": "Preview",
+  "pieces.exploredSnippetInsights.exploreAndSave": true,
+  "pieces.OS.autoLaunchOnInteraction": true,
+  "pieces.relatedMaterials.autoSaveRelatedMaterialSelection": true
 }
